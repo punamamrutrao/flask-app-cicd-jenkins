@@ -27,7 +27,6 @@ flask-app-cicd-jenkins/
 └── README.md
 
 
-
 ---
 
 ## 🛠 How the Pipeline Works
